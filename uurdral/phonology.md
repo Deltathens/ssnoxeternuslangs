@@ -1,7 +1,7 @@
 IPA/Orthography
 
-Consonants|Labial|Alveolar|Velar
-----------|------|--------|-----
+Consonants|Labial|Dental|Velar
+----------|------|------|-----
 Plosives|p/p|t/t|k/k
 Fricatives|ɸ/f|θ|x/x
 
