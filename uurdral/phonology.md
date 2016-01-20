@@ -7,6 +7,6 @@ Fricatives|ɸ/f|θ|x/x
 
 Vowels|Front|Center|Back
 ------|-----|------|----
-High|ɪ ʏː||
-Mid|ɛ øː|ə̃|ɔ̃
-Low|a||
+High|ɪ ʏː/i y||
+Mid|ɛ øː/e |ə̃/̃|ɔ̃/o
+Low|a/a||
